@@ -4,7 +4,7 @@ from runner import main, main_tracks
 from termcolor import cprint
 import asyncio
 
-if __name__ == "__main__":
+if __name__ == "__main__": ##ваолорываж лва фыва 
 
     cprint(TITLE, TITLE_COLOR)
     cprint(f'\nsubscribe to us : https://t.me/hodlmodeth', TITLE_COLOR)
